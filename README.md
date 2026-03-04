@@ -3,11 +3,11 @@
 <h3 align="center">Evan - 23 Y/O - Greece</h3>
 <h3 align="center">Graduate - Computer Science @ UOY</h3>
 
-<h3 align="center">
-<a href="https://www.york.ac.uk/">
-<img src="https://your-image-url.com/university-logo.png" width="180">
+<p align="center">
+<a href="https://www.cs.york.ac.uk/" target="_blank">
+<img src="images/cs-button.png" width="420">
 </a>
-</h3>
+</p>
 
 <br>
 
