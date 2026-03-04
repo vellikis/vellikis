@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/vellikis" target="_blank" style="text-decoration:none;">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" style="vertical-align:middle;">
 </a>
-<a href="https://yourwebsite.com" target="_blank" style="text-decoration:none;">
+<a href="https://evangelosvellikis.gr/" target="_blank" style="text-decoration:none;">
 <img src="images/ev.jpg" height="43" style="border-radius:6px; margin-left:10px; vertical-align:middle;">
 </a>
 </p>
