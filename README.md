@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.cs.york.ac.uk/" target="_blank">
-<img src="images/cs-button.png" width="420">
+<img src="images/button-cs.png" width="420">
 </a>
 </p>
 
